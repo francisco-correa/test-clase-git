@@ -2,6 +2,6 @@
 Repositorio para probar gitHub
 
 
-# Estamos en la calse de GIT 
+# Estamos en la clase de GIT 
 # Hola
 ## Clase
